@@ -1,0 +1,4 @@
+1. Started with the question: How does remote vs in-person affect mental health?
+2. Looked at data to see what info I had that could help me answer this question.
+3. Cleaned and filtered the data and decided to compare remote vs in-person workers
+and if they reported mental or physical consequences.
