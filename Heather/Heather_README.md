@@ -1,6 +1,7 @@
 # Project 1
 
-For Project 1, I worked with a team to find and analyze a dataset of our choice. We chose to explore Mental Health in Tech. People working in tech are often at their desks for extended amounts of time. We explored  how this trend correlates with mental health. We examined the data collected through surveys and searched for trends. We wanted to find out if there is a link between mental health and companies that offer wellness programs. We examined such questions as: What do the results show you about the state of mental health in tech? Can you suggest steps that companies can take to help their employees?
+For Project 1, I worked with a team to find and analyze a dataset of our choice. 
+
 
 ## Synopsis of Process
 
@@ -31,6 +32,6 @@ To tackle this challenge I...
 
 ### Heather Folder
 + Heathers_Notebook.ipynb
-+ Data folder (2014-2022 Surveys)
++ Data folder 
 + Heather_README.md
 
