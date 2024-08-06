@@ -1,6 +1,13 @@
 # Project 1
 
-For Project 1, I worked with a team to find and analyze a dataset of our choice. 
+For Project 1, I worked with a team to find and analyze a dataset of our choice. We chose to explore Mental Health and Music. People working in tech are often at their desks for extended amounts of time. We explored  how this trend correlates with mental health. We examined the data collected through surveys and searched for trends. We wanted to find out if there is a link between mental health and companies that offer wellness programs. We examined such questions as: What do the results show you about the state of mental health in tech? Can you suggest steps that companies can take to help their employees?
+
+Music therapy, or MT, is the use of music to improve an individual's stress, mood, and overall mental health. MT is also recognized as an evidence-based practice, using music as a catalyst for "happy" hormones such as oxytocin.
+
+However, MT employs a wide range of different genres, varying from one organization to the next.
+
+The MxMH dataset aims to identify what, if any, correlations exist between an individual's music taste and their self-reported mental health. Ideally, these findings could contribute to a more informed application of MT or simply provide interesting sights about the mind.
+
 
 
 ## Synopsis of Process
@@ -14,15 +21,12 @@ To tackle this challenge I...
 4. Researched the resources listed below to find additional, or more elegant, code.
 5. Cleaned and tested scripts.
 6. Used observations to create an analysis. 
-7. Posed more questions for further research.
    
 
 
 ## Resources
 
-+ Previous Bootcamp Challenges   
-
-+ Xpert Learning Assistant
++ Previous Bootcamp Challenges
 
 + ChatGPT
 
