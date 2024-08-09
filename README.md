@@ -35,15 +35,13 @@ To tackle this challenge we...
 ## Resources
 
 + Previous Bootcamp Challenges
-
 + PowerPoint
-
 + ChatGPT
 
 
 
 ## Table of Contents
 
-+ Heathers_Notebook.ipynb
++ main.ipynb
 + Data folder 
-+ Heather_README.md
++ README.md
