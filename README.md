@@ -25,6 +25,7 @@ To tackle this challenge we...
 6. Cleaned, merged and tested scripts.
 7. Used observations to create an analysis.
 8. Outlined and created presentation.
+9. Wrote final analysis.
 
 
 
