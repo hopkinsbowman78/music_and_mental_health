@@ -55,6 +55,6 @@ To tackle this challenge we...
 
 ## Table of Contents
 + mainScript.ipynb 
-+ power point deck
++ Music_and_Mental_Health.pptx
 + Data folder 
 + README.md
