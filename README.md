@@ -4,13 +4,13 @@ For Project 1, our team was required to find and analyze a dataset of our choice
 
 ## Context
 
-Music therapy, or MT, is the use of music to improve an individual's stress, mood, and overall mental health. MT is also recognized as an evidence-based practice, using music as a catalyst for "happy" hormones such as oxytocin.
+Music therapy (MT) involves using music to enhance an individual’s stress levels, mood, and overall mental well-being. It is an evidence-based practice known for stimulating the release of "happy" hormones like oxytocin.
 
-However, MT employs a wide range of different genres, varying from one organization to the next.
+MT utilizes a diverse array of music genres, with the specific approach varying across different organizations.
 
-The MxMH dataset aims to identify what, if any, correlations exist between an individual's music taste and their self-reported mental health. 
+The MxMH dataset is designed to explore potential correlations between a person’s music preferences and their self-reported mental health. 736 respondents answered questions focused on musical background and listening habits.
 
-Ideally, these findings could contribute to a more informed application of MT or simply provide interesting sights about the mind.
+Ultimately, the goal is to either refine the application of MT or offer intriguing insights into the relationship between music and mental health.
 
 
 ## Synopsis of Process
