@@ -36,7 +36,7 @@ Notably, users of Pandora report lower levels of depression, anxiety, insomnia, 
 
 Additionally, genres like Jazz and Classical are associated with lower OCD and insomnia scores, while genres such as Lofi and EDM are linked to higher levels of anxiety and depression. 
 
-The data also highlights a positive correlation between the number of hours spent listening to music and increased mental health symptoms, particularly anxiety and insomnia, suggesting that excessive music consumption might exacerbate these conditions. 
+Even though there are some positive correlations, the r-squared values are so low that we conclude that there is no significant relationship between the hours spent on music per day and the level of the four types of mental health issues.
 
 These findings emphasize the importance of personalized music therapy that takes into account the type of music, streaming service, and listening habits, enabling more effective treatments and innovative approaches within the music therapy industry.
 
