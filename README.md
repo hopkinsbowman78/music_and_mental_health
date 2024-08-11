@@ -24,7 +24,8 @@ Additionally, genres like Jazz and Classical are associated with lower OCD and i
 
 Even though there are some positive correlations, the r-squared values are so low that we conclude that there is no significant relationship between the hours spent on music per day and the level of the four types of mental health issues.
 
-These findings emphasize the importance of personalized music therapy that takes into account the type of music, streaming service, and listening habits, enabling more effective treatments and innovative approaches within the music therapy industry.
+These findings emphasize the importance of personalized music therapy that takes into account the type of music and streaming service, enabling more effective treatments and innovative approaches within the music therapy industry.
+
 
 
  ## Synopsis of Process
