@@ -55,6 +55,6 @@ To tackle this challenge we...
 
 ## Table of Contents
 + mainScript.ipynb 
-+ Music_and_Mental_Health.pptx
++ Music and Mental Health.pdf
 + Data folder 
 + README.md
