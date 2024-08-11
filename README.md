@@ -53,8 +53,7 @@ These findings emphasize the importance of personalized music therapy that takes
 
 
 ## Table of Contents
-
++ mainScript.ipynb 
 + power point deck
-+ main.ipynb
 + Data folder 
 + README.md
