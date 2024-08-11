@@ -8,7 +8,7 @@ Music therapy (MT) involves using music to enhance an individual’s stress leve
 
 MT utilizes a diverse array of music genres, with the specific approach varying across different organizations.
 
-The MxMH dataset is designed to explore potential correlations between a person’s music preferences and their self-reported mental health. 736 respondents answered questions focused on musical background and listening habits.
+The MxMH dataset is designed to explore potential correlations between a person’s music preferences and their self-reported mental health. 736 respondents answered questions focused on musical preferences, listening habits and mental health.
 
 Ultimately, the goal is to either refine the application of MT or offer intriguing insights into the relationship between music and mental health.
 
