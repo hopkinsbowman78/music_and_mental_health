@@ -20,7 +20,7 @@ The analysis of the MxMH dataset uncovers specific correlations between music pr
 
 Notably, users of Pandora report lower levels of depression, anxiety, insomnia, and OCD compared to those using Spotify and Apple Music, where higher levels of anxiety and depression are prevalent. 
 
-Additionally, genres like Jazz and Classical are associated with lower OCD and insomnia scores, while genres such as Lofi and EDM are linked to higher levels of anxiety and depression. 
+Additionally, genres like Gospel and Classical are associated with lower anxiety, depression and OCD scores, while Lofi is linked to higher levels of depression, insomnia and OCD. 
 
 There is no significant relationship between the hours spent on music per day and the level of the four types of mental health issues based on the r value and r-squared value calculated.
 
