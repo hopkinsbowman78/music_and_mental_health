@@ -14,7 +14,7 @@ Ultimately, the goal is to either refine the application of MT or offer intrigui
 
 
 
-## Final Analysis: The Impact of Music on Mental Health and Implications for Music Therapy
+## Analysis: The Impact of Music on Mental Health and Implications for Music Therapy
 
 The MxMH dataset explores the relationship between music preferences, streaming habits, and self-reported mental health conditions such as Depression, Anxiety, Insomnia, and OCD. The findings from the data can contribute to the understanding of how music affects mental health and the potential application of Music Therapy (MT).
 
