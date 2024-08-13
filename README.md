@@ -23,6 +23,7 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 
 **Analysis:** Compare mental health scores across different streaming services (e.g., Spotify, Pandora, YouTube Music).
 
+
 ![Streaming Data](https://github.com/user-attachments/assets/7c38edc2-c149-45df-b4b3-16616a93bd3d)
 
 + Different streaming services are associated with varying levels of mental health conditions.
@@ -32,6 +33,12 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 **Implication:** The differences between streaming services could be related to user demographics, the type of music content provided, or the specific ways in which people engage with these platforms. This insight is valuable for MT practitioners when recommending music platforms or content.
 
 ###  2. Favorite Genre and Mental Health
+**Question:** Does the favorite genre of music have an impact on mental health conditions?
+
+**Analysis:** Compare mental health scores for different favorite genres.
+
+
+
 ![Screenshot 2024-08-13 at 12 33 29 PM](https://github.com/user-attachments/assets/d4ae08d8-ce08-49b7-92c7-1c7d26d0d5d4)
 
 + The genre of music listened to also shows correlations with mental health outcomes.
