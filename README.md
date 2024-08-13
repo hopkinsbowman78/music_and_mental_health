@@ -19,6 +19,9 @@ Ultimately, the goal is to either refine the application of MT or offer intrigui
 The MxMH dataset explores the relationship between music preferences, streaming habits, and self-reported mental health conditions such as Depression, Anxiety, Insomnia, and OCD. The findings from the data can contribute to the understanding of how music affects mental health and the potential application of Music Therapy (MT).
 
 ### 1. Streaming Service Usage and Mental Health
+**Question:** Is there a correlation between the primary streaming service used and mental health indicators (anxiety, depression, insomnia, OCD)?
+**Analysis:** Compare mental health scores across different streaming services (e.g., Spotify, Pandora, YouTube Music).
+
 ![Streaming Data](https://github.com/user-attachments/assets/7c38edc2-c149-45df-b4b3-16616a93bd3d)
 
 + Different streaming services are associated with varying levels of mental health conditions.
