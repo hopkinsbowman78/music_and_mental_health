@@ -23,8 +23,8 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 
 **Analysis:** Compare mental health scores across different streaming services (e.g., Spotify, Pandora, YouTube Music).
 
+![Screenshot 2024-08-13 at 1 20 24 PM](https://github.com/user-attachments/assets/d9879fe2-508a-40f5-a641-3ae9b8c95b35)
 
-![Streaming Data](https://github.com/user-attachments/assets/7c38edc2-c149-45df-b4b3-16616a93bd3d)
 
 + Different streaming services are associated with varying levels of mental health conditions.
 + Pandora users generally report lower levels of Depression, Anxiety, Insomnia, and OCD, suggesting a potentially less negative or more positive impact of this service on mental health.
