@@ -68,7 +68,8 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 ![Screenshot 2024-08-13 at 12 59 07 PM](https://github.com/user-attachments/assets/df9ad171-3907-45df-8204-238af769531b)
 
 
-![Screenshot 2024-08-13 at 12 56 59 PM](https://github.com/user-attachments/assets/dee22e4f-1d29-4c04-9e94-9e78e99456a4)
+![Screenshot 2024-08-13 at 1 04 14 PM](https://github.com/user-attachments/assets/23850167-d345-4e94-bb9d-fe60225a8cb1)
+
 
 
 + The data indicates a varying relationship between the number of hours spent listening to music and different mental health conditions.
