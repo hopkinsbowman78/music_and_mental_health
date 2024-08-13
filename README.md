@@ -37,9 +37,8 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 
 **Analysis:** Compare mental health scores for different favorite genres.
 
+![Screenshot 2024-08-13 at 1 23 13 PM](https://github.com/user-attachments/assets/981a576f-17ed-4e4c-8670-ba5f6d75dfd3)
 
-
-![Screenshot 2024-08-13 at 12 33 29 PM](https://github.com/user-attachments/assets/d4ae08d8-ce08-49b7-92c7-1c7d26d0d5d4)
 
 + The genre of music listened to also shows correlations with mental health outcomes.
 + Lofi, Classical, and EDM are associated with higher levels of Anxiety and Depression.
