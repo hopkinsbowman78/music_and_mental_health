@@ -107,7 +107,7 @@ To tackle this challenge we...
 
 
 ## Table of Contents
-+ main.ipynb (Music and Mental Health Code used to clean and analyze the data)
++ main.ipynb (Code used to clean and analyze the dataset)
 + Music and Mental Health.pdf (Slide Deck used for presentation)
 + Data folder (Music and Mental Health Survey dataset)
 + README.md
