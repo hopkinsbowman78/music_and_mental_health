@@ -52,6 +52,7 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 
 **Analysis:** Analyze the 'Music effects' column in relation to mental health scores.
 
+![Screenshot 2024-08-13 at 1 04 14 PM](https://github.com/user-attachments/assets/e1f091b7-4e9d-4872-b2c1-32f32e960cf2)
 
 + The dataset reveals diverse effects of music on individuals with varying levels of Depression, Anxiety, Insomnia, and OCD.
 + A significant number of individuals report that music improves their condition, particularly for Anxiety and Depression. However, a notable portion also reports no effect or even a worsening of symptoms.
