@@ -20,6 +20,7 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 
 ### 1. Streaming Service Usage and Mental Health
 **Question:** Is there a correlation between the primary streaming service used and mental health indicators (anxiety, depression, insomnia, OCD)?
+
 **Analysis:** Compare mental health scores across different streaming services (e.g., Spotify, Pandora, YouTube Music).
 
 ![Streaming Data](https://github.com/user-attachments/assets/7c38edc2-c149-45df-b4b3-16616a93bd3d)
