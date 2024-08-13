@@ -63,8 +63,10 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 **Question:** How does the number of hours spent listening to music per day affect mental health?
 
 **Analysis:** Analyze the relationship between hours per day and mental health scores.
-<img width="731" alt="Screenshot 2024-08-13 at 12 51 05 PM" src="https://github.com/user-attachments/assets/038cc0e9-13ae-4fe4-a8bf-74b8e0c3b406">
-<img width="639" alt="Screenshot 2024-08-13 at 12 51 23 PM" src="https://github.com/user-attachments/assets/9d22dabc-babf-4c96-9593-6c6f7ba369f4">
+
+![Screenshot 2024-08-13 at 12 59 07 PM](https://github.com/user-attachments/assets/df9ad171-3907-45df-8204-238af769531b)
+
+
 ![Screenshot 2024-08-13 at 12 56 59 PM](https://github.com/user-attachments/assets/dee22e4f-1d29-4c04-9e94-9e78e99456a4)
 
 
