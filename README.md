@@ -48,6 +48,9 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 **Implication:** Certain genres might exacerbate or alleviate mental health conditions. MT practitioners could leverage these insights to tailor music therapy interventions more effectively. For instance, avoiding certain genres or emphasizing others could potentially improve mental health outcomes.
 
 ### 3. Music Effects on Mental Health Conditions
+**Question:** What are the self-reported effects of music on various mental health conditions (anxiety, depression, insomnia, OCD)?
+
+**Analysis:** Analyze the 'Music effects' column in relation to mental health scores.
 
 
 + The dataset reveals diverse effects of music on individuals with varying levels of Depression, Anxiety, Insomnia, and OCD.
@@ -57,6 +60,9 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 **Implication:** Music therapy should be personalized, as the effects of music on mental health are not uniform. While some individuals might find music therapeutic, others might experience no benefit or even a deterioration in their condition. Understanding a patient’s specific reactions to music is crucial for effective MT interventions.
 
 ### 4. Hours Spent on Music and Mental Health
+**Question:** How does the number of hours spent listening to music per day affect mental health?
+
+**Analysis:** Analyze the relationship between hours per day and mental health scores.
 
 + The data indicates a varying relationship between the number of hours spent listening to music and different mental health conditions.
 + Anxiety and Depression: There is a slight positive correlation between hours spent listening to music and higher levels of anxiety and depression. This could suggest that individuals with higher anxiety and depression may use music as a coping mechanism, though it might not always alleviate their symptoms.
@@ -78,7 +84,8 @@ To tackle this challenge we...
 6. Cleaned, merged and tested scripts.
 7. Used observations to create an analysis.
 8. Outlined and created presentation.
-9. Wrote final analysis.  
+10. Presented findings.
+11. Updated analysis and presentation based on feedback.
 
 
 ## Resources
@@ -91,7 +98,7 @@ To tackle this challenge we...
 
 
 ## Table of Contents
-+ main.ipynb 
-+ Music and Mental Health.pdf
-+ Data folder 
++ main.ipynb (Music and Mental Health Code used to clean and analyze the data)
++ Music and Mental Health.pdf (Slide Deck used for presentation)
++ Data folder (Music and Mental Health Survey dataset)
 + README.md
