@@ -14,18 +14,18 @@ Ultimately, the goal is to either refine the application of MT or offer intrigui
 
 
 
-## Analysis
+## Final Analysis: The Impact of Music on Mental Health and Implications for Music Therapy
 
-The analysis of the MxMH dataset uncovers specific correlations between music preferences, streaming habits, and mental health conditions, offering targeted insights for music therapy. 
-
-Notably, users of Pandora report lower levels of depression, anxiety, insomnia, and OCD compared to those using Spotify and Apple Music, where higher levels of anxiety and depression are prevalent. 
-
-Additionally, genres like Gospel and Classical are associated with lower anxiety, depression and OCD scores, while Lofi is linked to higher levels of depression, insomnia and OCD. 
-
-There is no significant relationship between the hours spent on music per day and the level of the four types of mental health issues based on the r value and r-squared value calculated.
+The MxMH dataset explores the relationship between music preferences, streaming habits, and self-reported mental health conditions such as Depression, Anxiety, Insomnia, and OCD. The findings from the data can contribute to the understanding of how music affects mental health and the potential application of Music Therapy (MT).
 
 
-These findings emphasize the importance of personalized music therapy that takes into account the type of music and streaming service, enabling more effective treatments and innovative approaches within the music therapy industry.
+### Streaming Service Usage and Mental Health
++ Different streaming services are associated with varying levels of mental health conditions.
++ Pandora users generally report lower levels of Depression, Anxiety, Insomnia, and OCD, suggesting a potentially less negative or more positive impact of this service on mental health.
++ Spotify and Apple Music users report higher levels of these conditions, which could indicate that the content or usage patterns associated with these services are linked to higher mental health symptoms.
+
+** Implication: The differences between streaming services could be related to user demographics, the type of music content provided, or the specific ways in which people engage with these platforms. This insight is valuable for MT practitioners when recommending music platforms or content.
+
 
 
 
