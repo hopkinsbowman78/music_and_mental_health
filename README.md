@@ -23,7 +23,7 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 
 **Analysis:** Compare mental health scores across different streaming services (e.g., Spotify, Pandora, YouTube Music).
 
-![Screenshot 2024-08-13 at 1 25 43 PM](https://github.com/user-attachments/assets/7a75a202-f6ff-4d85-be96-2b62f09c4420)
+![Screenshot 2024-08-13 at 1 20 24 PM](https://github.com/user-attachments/assets/240410c1-310f-45c6-bd3a-ee74ad7920de)
 
 
 + Different streaming services are associated with varying levels of mental health conditions.
