@@ -66,15 +66,17 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 
 ![Screenshot 2024-08-13 at 12 59 07 PM](https://github.com/user-attachments/assets/df9ad171-3907-45df-8204-238af769531b)
 
++ The bar chart shows the distribution of hours spent listening to music per day for each respondent. Most respondents spent around 2 to 5 hours per day listening to music.
++ For the initial analysis, the data were grouped into 5 intervals based on hours spent listening to music per day, and the average self-reported level of mental health issues for each group was calculated, as shown in the table. Based on the data in the table, there is no obvious trend between the hours spent listening to music per day and the level of each mental health issue. However, note that the 21 to 24 hours per day group has the lowest level of each mental issue compared to the other groups.
+
 ![Screenshot 2024-08-13 at 1 31 02 PM](https://github.com/user-attachments/assets/f311bfc3-4668-467d-a602-8ee1ce0263b9)
 
++ To further examine the relationships, scatter plots were created with hours per day versus each mental health issue, and a linear regression model was applied to each plot. The r value and r-squared value were then calculated for each relationship.
++ As shown in the four plots, the data are dispersed and the line of best fit is mostly flat in each relationship, indicating there is no obvious correlation.
++ The r values for all the relationships are lower than 0.14, indicating either no correlation or a very weak correlation.
++ The r-squared values for all the relationships are lower than 0.02, suggesting that only 2% of the data can be explained by the hours spent listening to music per day.
 
-+ The data indicates a varying relationship between the number of hours spent listening to music and different mental health conditions.
-+ Anxiety and Depression: There is a slight positive correlation between hours spent listening to music and higher levels of anxiety and depression. This could suggest that individuals with higher anxiety and depression may use music as a coping mechanism, though it might not always alleviate their symptoms.
-+ Insomnia: A similar trend is observed for insomnia, where increased hours of music listening correlate with higher insomnia levels.
-+ OCD: The relationship between music listening hours and OCD is also positively correlated, though slightly less pronounced than with other conditions.
-
-**Implication:** While music is often used as a coping tool, the data suggests that simply listening to music more may not reduce symptoms of mental health conditions and might be associated with higher symptom levels. This underscores the importance of understanding the type and context of music being consumed.
+**Implication:** Even though there are some positive correlations, the low r values and r-squared values indicate that there is no significant relationship between the hours spent listening to music per day and the level of the four types of mental health issues.
 
 ### Conclusion:
 The analysis of the MxMH dataset suggests that music has a complex and multifaceted impact on mental health. While certain types of music or streaming services may correlate with higher mental health symptoms, others might offer therapeutic benefits. The key takeaway for Music Therapy is the need for personalized approaches—considering the type of music, the amount of time spent listening, and individual patient responses to different genres and platforms. This personalized approach could maximize the therapeutic benefits of music, helping individuals with mental health conditions more effectively.
