@@ -41,7 +41,7 @@ The MxMH dataset explores the relationship between music preferences, streaming 
 
 
 + Prior to analysis, the dataset was cleaned, sorted by genre and the mean for each mental health condition was calculated. 
-+ When orgnaized into a bar graph, the genre of music listened to showed correlations with mental health outcomes.
++ As observed in the bar charts, the genre of music listened to showed correlations with mental health outcomes.
 + Lofi, Classical, and EDM are associated with higher levels of Anxiety and Depression.
 + Jazz, Classical, and Gospel tend to correlate with lower levels of OCD and Insomnia.
 
