@@ -1,4 +1,4 @@
-# Project 1
+# project-1-data-analysis
 
 For Project 1, our team was required to find and analyze a dataset of our choice. We chose to explore Mental Health and Music. 
 
@@ -83,26 +83,9 @@ The analysis of the MxMH dataset suggests that music has a complex and multiface
 
 
 
- ## Synopsis of Process
-
-To tackle this challenge we...
-
-1. Read and decoded the requirements of the project.
-2. Researched current questions/problems in the Data Analystics Field and to find possible data sources to address the problem.
-3. Brainstormed possible structures needed to accomplish the goals of the challenge.
-4. Looked back at Bootcamp class activites to find code to accomplish processes.
-5. Researched the resources listed below to find additional, or more elegant, code.
-6. Cleaned, merged and tested scripts.
-7. Used observations to create an analysis.
-8. Outlined and created presentation.
-10. Presented findings.
-11. Updated analysis and presentation based on feedback.
-
-
 ## Resources
 
 + https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results/data?select=mxmh_survey_results.csv
-+ Previous Bootcamp Challenges
 + PowerPoint
 + ChatGPT
 
@@ -112,5 +95,4 @@ To tackle this challenge we...
 + main.ipynb (Code used to clean and analyze the dataset)
 + Music and Mental Health.pdf (Slide Deck used for presentation)
 + Data folder (Music and Mental Health Survey dataset)
-+ Project 1 (Original Project Requirements)
 + README.md
